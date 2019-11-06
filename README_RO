@@ -1,0 +1,13 @@
+Se citesc imaginile de la calea specificata si se transforma in 
+vectori coloana. Acestia sunt concatenati pentru a obtine matricea T. 
+Se face media pe fiecare linie a lui T si se scade din linia
+respectiva. Se afla valorile singulare ale matricei A nou obtinute si 
+se elimina, marcandu-se cu 0, fiecare vector propriu care corespunde 
+unei valori singulare mai mici ca 1. Dupa aceea se calculeaza matricea
+ fetelor si proiectia acesteia.
+
+Se citeste matricea de la calea specificata si se reprezinta ca vector
+coloana. Apoi se scade din acesta m (fata comuna) si se calculeaza 
+proiectia noului vector obtinut. Se calculeaza imaginea cea mai 
+apropiata din setul de date de imaginea curenta si se retine indicele
+acesteia.
